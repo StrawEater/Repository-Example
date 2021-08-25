@@ -1,13 +1,13 @@
 Nothing to see here, move on, it's just a plain and boring example.
 
-Grocery List:
+Vegan Grocery List:
 
 - Apple
 - Banana
 - Orange
 - Tomato Sauce 
-- Eggs
-- Milk
+- Olive Oil
+- Oat Milk
 - Flour
-- Chicken Breasts
-- Your Mom
+- Tofu
+- Your Garden
