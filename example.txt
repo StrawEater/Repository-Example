@@ -5,6 +5,7 @@ Grocery List:
 - Apple
 - Banana
 - Orange
+- Tomato Sauce 
 - Eggs
 - Milk
 - Flour
