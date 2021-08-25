@@ -10,4 +10,5 @@ Vegan Grocery List:
 - Oat Milk
 - Flour
 - Tofu
+- Cheese
 - Your Garden
